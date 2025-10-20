@@ -21,7 +21,7 @@ Advanced Analytics: Detailed visualizations and trend analysis
 
 Models: Random Forest, SVM, and KNN ensemble
 
-Accuracy: ~92% average accuracy across models
+Accuracy: ~90% average accuracy across models
 
 Features: Accelerometer and gyroscope magnitude analysis
 
@@ -49,4 +49,4 @@ GET /api/ - API status
 GET /api/falls - Fall incidents
 
 
-**ML Model:** ~88% avg accuracy (RF: 90.5%, SVM: 86.1%, KNN: 86.7%)
+**ML Model:** ~90% avg accuracy (RF: 90.5%, SVM: 86.1%, KNN: 86.7%)
